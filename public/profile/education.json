@@ -1,0 +1,18 @@
+{
+    "education":[
+        {
+            "title": "2012-2014",
+            "cardTitle": "BMTech, Computer Science and Engineering",
+            "cardSubtitle":"Prist University Thanjavur",
+            "icon" : {
+                "src": "images/education/cse.JPG"
+            }
+        },
+        {
+            "title": "2007-2010",
+            "cardTitle": "MCA",
+            "cardSubtitle":"University of Calicut",
+            "cardDetailedText": "80%"
+        }
+    ]
+}

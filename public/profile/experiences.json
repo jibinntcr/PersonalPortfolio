@@ -1,0 +1,31 @@
+{
+    "experiences": [
+        {
+            "title": "CSE student",
+            "subtitle": "PRC",
+            "workType": "studying(4)",
+            "workDescription": [
+                "studying computer engineering."
+            ]
+            
+        },
+        {
+            "title": "CSE Student",
+            "subtitle": "NSS Poly",
+            "workType": "3 years",
+            "workDescription": [
+                "Worked on abc."
+            ]
+            
+        },
+        {
+            "title": "Developer",
+            "subtitle": "Internet",
+            "workType": "Any time",
+            "workDescription": [
+                "Trying to understand and learn coding and developing it."
+            ]
+           
+        }
+    ]
+}

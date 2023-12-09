@@ -1,0 +1,104 @@
+{
+    "projects" : [
+        {
+            "title": "Jibin N ",
+            "bodyText": "- Myself",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jibinntcr"
+                }
+               
+            ],
+            "tags" : [
+                "React",
+                "HTML",
+                "JavaScript"
+            ]
+        },
+       
+        {
+            "title": "DCA CUSAT",
+            "bodyText": "- DCA CUSAT Department Site.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jibinntcr/DCA_CUSAT"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "CSS",
+                "HTML"
+            ]
+        },
+        {
+            "title": "CUSAT",
+            "bodyText": "- International Conforernce.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jibinntcr/ICADCA"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Room",
+                "Coroutines",
+                "Flow",
+                "Hilt-Dagger",
+                "NetworkBoundResource"
+            ]
+        },
+        {
+            "title": "Image-Gallery",
+            "bodyText": "- A gallery.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jibinntcr/Image-Gallery"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "CSS",
+                "HTML"
+                
+                
+            ]
+        },
+        {
+            "title": "Sequencing-Animations",
+            "bodyText": "- A simple Task.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jibinntcr/Sequencing-Animations"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Amigos ",
+            "bodyText": "- Residency Hotle.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jibinntcr/amigos"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "CSS",
+                "HTML"
+                
+            ]
+        }
+    ]
+}
